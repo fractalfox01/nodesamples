@@ -1,0 +1,32 @@
+{
+  "name": "nodesamples",
+  "version": "1.0.0",
+  "description": "A simple test server",
+  "main": "server.js",
+  "scripts": {
+    "test": "console.log(\"working\");"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fractalfox01/nodesamples.git"
+  },
+  "keywords": [
+    "javascript",
+    "expressjs",
+    "nodejs",
+    "ejs",
+    "html",
+    "css",
+    "jquery"
+  ],
+  "author": "Encoded_Void",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fractalfox01/nodesamples/issues"
+  },
+  "homepage": "https://github.com/fractalfox01/nodesamples#readme",
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3"
+  }
+}
